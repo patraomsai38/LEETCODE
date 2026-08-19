@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/patraomsai38/LEETCODE/tree/master/0127-word-ladder) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/patraomsai38/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/patraomsai38/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/patraomsai38/LEETCODE/tree/master/0127-word-ladder) |
 | [1386-cinema-seat-allocation](https://github.com/patraomsai38/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/patraomsai38/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/patraomsai38/LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -73,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/patraomsai38/LEETCODE/tree/master/1563-stone-game-v) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/patraomsai38/LEETCODE/tree/master/0127-word-ladder) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/patraomsai38/LEETCODE/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
