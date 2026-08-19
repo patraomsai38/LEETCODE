@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/patraomsai38/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/patraomsai38/LEETCODE/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/patraomsai38/LEETCODE/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/patraomsai38/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/patraomsai38/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/patraomsai38/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/patraomsai38/LEETCODE/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sliding Window
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/patraomsai38/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/patraomsai38/LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/patraomsai38/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/patraomsai38/LEETCODE/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
