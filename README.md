@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/patraomsai38/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/patraomsai38/LEETCODE/tree/master/0127-word-ladder) |
 | [1927-sum-game](https://github.com/patraomsai38/LEETCODE/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/patraomsai38/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/patraomsai38/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [1563-stone-game-v](https://github.com/patraomsai38/LEETCODE/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/patraomsai38/LEETCODE/tree/master/1872-stone-game-viii) |
 ## Breadth-First Search
