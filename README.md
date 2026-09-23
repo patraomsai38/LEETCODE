@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/patraomsai38/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0835-image-overlap](https://github.com/patraomsai38/LEETCODE/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/patraomsai38/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/patraomsai38/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/patraomsai38/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0115-distinct-subsequences](https://github.com/patraomsai38/LEETCODE/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/patraomsai38/LEETCODE/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/patraomsai38/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/patraomsai38/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0835-image-overlap](https://github.com/patraomsai38/LEETCODE/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/patraomsai38/LEETCODE/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
