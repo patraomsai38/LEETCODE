@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/patraomsai38/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0704-binary-search](https://github.com/patraomsai38/LEETCODE/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/patraomsai38/LEETCODE/tree/master/0835-image-overlap) |
+| [0912-sort-an-array](https://github.com/patraomsai38/LEETCODE/tree/master/0912-sort-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/patraomsai38/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/patraomsai38/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/patraomsai38/LEETCODE/tree/master/1563-stone-game-v) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/patraomsai38/LEETCODE/tree/master/0912-sort-an-array) |
 | [1096-brace-expansion-ii](https://github.com/patraomsai38/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/patraomsai38/LEETCODE/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/patraomsai38/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -276,4 +278,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/patraomsai38/LEETCODE/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/patraomsai38/LEETCODE/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/patraomsai38/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/patraomsai38/LEETCODE/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/patraomsai38/LEETCODE/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/patraomsai38/LEETCODE/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/patraomsai38/LEETCODE/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/patraomsai38/LEETCODE/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/patraomsai38/LEETCODE/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
