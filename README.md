@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/patraomsai38/LEETCODE/tree/master/0063-unique-paths-ii) |
+| [0704-binary-search](https://github.com/patraomsai38/LEETCODE/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/patraomsai38/LEETCODE/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/patraomsai38/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/patraomsai38/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/patraomsai38/LEETCODE/tree/master/0704-binary-search) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/patraomsai38/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/patraomsai38/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/patraomsai38/LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
