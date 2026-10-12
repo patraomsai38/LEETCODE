@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/patraomsai38/LEETCODE/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/patraomsai38/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0189-rotate-array](https://github.com/patraomsai38/LEETCODE/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/patraomsai38/LEETCODE/tree/master/0704-binary-search) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/patraomsai38/LEETCODE/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/patraomsai38/LEETCODE/tree/master/0147-insertion-sort-list) |
 | [0912-sort-an-array](https://github.com/patraomsai38/LEETCODE/tree/master/0912-sort-an-array) |
 | [1096-brace-expansion-ii](https://github.com/patraomsai38/LEETCODE/tree/master/1096-brace-expansion-ii) |
@@ -317,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/patraomsai38/LEETCODE/tree/master/0912-sort-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/patraomsai38/LEETCODE/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
