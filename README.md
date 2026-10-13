@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/patraomsai38/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0189-rotate-array](https://github.com/patraomsai38/LEETCODE/tree/master/0189-rotate-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/patraomsai38/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/patraomsai38/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/patraomsai38/LEETCODE/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/patraomsai38/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/patraomsai38/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/patraomsai38/LEETCODE/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/patraomsai38/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Matrix
 |  |
 | ------- |
