@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/patraomsai38/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0189-rotate-array](https://github.com/patraomsai38/LEETCODE/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/patraomsai38/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/patraomsai38/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/patraomsai38/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/patraomsai38/LEETCODE/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/patraomsai38/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0147-insertion-sort-list](https://github.com/patraomsai38/LEETCODE/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/patraomsai38/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/patraomsai38/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/patraomsai38/LEETCODE/tree/master/0237-delete-node-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/patraomsai38/LEETCODE/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/patraomsai38/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/patraomsai38/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/patraomsai38/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/patraomsai38/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/patraomsai38/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/patraomsai38/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/patraomsai38/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [0856-score-of-parentheses](https://github.com/patraomsai38/LEETCODE/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/patraomsai38/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/patraomsai38/LEETCODE/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
