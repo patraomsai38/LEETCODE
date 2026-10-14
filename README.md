@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/patraomsai38/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/patraomsai38/LEETCODE/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/patraomsai38/LEETCODE/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/patraomsai38/LEETCODE/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/patraomsai38/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/patraomsai38/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/patraomsai38/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/patraomsai38/LEETCODE/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/patraomsai38/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0147-insertion-sort-list](https://github.com/patraomsai38/LEETCODE/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/patraomsai38/LEETCODE/tree/master/0206-reverse-linked-list) |
