@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/patraomsai38/LEETCODE/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/patraomsai38/LEETCODE/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/patraomsai38/LEETCODE/tree/master/0063-unique-paths-ii) |
+| [0088-merge-sorted-array](https://github.com/patraomsai38/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/patraomsai38/LEETCODE/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/patraomsai38/LEETCODE/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/patraomsai38/LEETCODE/tree/master/0835-image-overlap) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/patraomsai38/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/patraomsai38/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/patraomsai38/LEETCODE/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/patraomsai38/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/patraomsai38/LEETCODE/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/patraomsai38/LEETCODE/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/patraomsai38/LEETCODE/tree/master/0234-palindrome-linked-list) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/patraomsai38/LEETCODE/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/patraomsai38/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/patraomsai38/LEETCODE/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/patraomsai38/LEETCODE/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/patraomsai38/LEETCODE/tree/master/0912-sort-an-array) |
