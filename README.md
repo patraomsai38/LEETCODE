@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/patraomsai38/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0046-permutations](https://github.com/patraomsai38/LEETCODE/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/patraomsai38/LEETCODE/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/patraomsai38/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0189-rotate-array](https://github.com/patraomsai38/LEETCODE/tree/master/0189-rotate-array) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/patraomsai38/LEETCODE/tree/master/0046-permutations) |
 | [1096-brace-expansion-ii](https://github.com/patraomsai38/LEETCODE/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
