@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/patraomsai38/LEETCODE/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/patraomsai38/LEETCODE/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/patraomsai38/LEETCODE/tree/master/0189-rotate-array) |
 | [0836-rectangle-overlap](https://github.com/patraomsai38/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/patraomsai38/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/patraomsai38/LEETCODE/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/patraomsai38/LEETCODE/tree/master/0704-binary-search) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/patraomsai38/LEETCODE/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/patraomsai38/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -350,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/patraomsai38/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/patraomsai38/LEETCODE/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
