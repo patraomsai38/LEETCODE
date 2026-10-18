@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/patraomsai38/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/patraomsai38/LEETCODE/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/patraomsai38/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0189-rotate-array](https://github.com/patraomsai38/LEETCODE/tree/master/0189-rotate-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/patraomsai38/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/patraomsai38/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/patraomsai38/LEETCODE/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/patraomsai38/LEETCODE/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/patraomsai38/LEETCODE/tree/master/0189-rotate-array) |
